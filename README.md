@@ -10,7 +10,7 @@
 
 * Download Maven 3+ and install from <http://maven.apache.org/download.cgi> 
 * Setup classpath so that mvn --version works on terminal / command promt
-** _[optional]_: setup M2_Home as environment variable for easy classpath manipulation
+  * _[optional]_: setup M2_Home as environment variable for easy classpath manipulation
 
 #### we are using TestNG for test execution; included through maven dependency
 

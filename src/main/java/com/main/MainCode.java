@@ -1,6 +1,6 @@
 package com.main;
 
-public class TestCodeMain {
+public class MainCode {
 
 	public static void main(String[] args) {
 		System.out.println(getPlaceHolderString());
